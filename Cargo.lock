@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "Regex-Automata"
+name = "regex_automata"
 version = "0.1.0"

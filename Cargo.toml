@@ -1,5 +1,5 @@
 [package]
-name = "Regex-Automata"
+name = "regex_automata"
 version = "0.1.0"
 edition = "2021"
 
